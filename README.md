@@ -1,3 +1,4 @@
 # SQL Q&A Practice
-## List of questions
-| ID | Title | Difficulty | Solution|
+## List of Questions
+| ID        | Title           | Difficulty  | Solution |
+| ------------- |:-------------:| -----:| -----:|
